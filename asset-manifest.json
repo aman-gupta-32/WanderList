@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WanderList/static/css/main.b45c70df.css",
+    "main.js": "/WanderList/static/js/main.c621d574.js",
+    "index.html": "/WanderList/index.html",
+    "main.b45c70df.css.map": "/WanderList/static/css/main.b45c70df.css.map",
+    "main.c621d574.js.map": "/WanderList/static/js/main.c621d574.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b45c70df.css",
+    "static/js/main.c621d574.js"
+  ]
+}
